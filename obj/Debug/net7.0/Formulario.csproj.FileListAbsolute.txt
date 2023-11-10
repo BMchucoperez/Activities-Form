@@ -28,3 +28,6 @@ D:\Bryann\Evaluaciones\Tynpu\Formulario\obj\Debug\net7.0\refint\Formulario.dll
 D:\Bryann\Evaluaciones\Tynpu\Formulario\obj\Debug\net7.0\Formulario.pdb
 D:\Bryann\Evaluaciones\Tynpu\Formulario\obj\Debug\net7.0\Formulario.genruntimeconfig.cache
 D:\Bryann\Evaluaciones\Tynpu\Formulario\obj\Debug\net7.0\ref\Formulario.dll
+D:\Bryann\Evaluaciones\Tynpu\Formulario\bin\Debug\net7.0\form\package-lock.json
+D:\Bryann\Evaluaciones\Tynpu\Formulario\bin\Debug\net7.0\form\package.json
+D:\Bryann\Evaluaciones\Tynpu\Formulario\bin\Debug\net7.0\form\public\manifest.json
